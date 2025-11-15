@@ -1,5 +1,5 @@
 # Spotify-Data-Analysis-Using-SQL
-!Limage altimage_url)
+![image alt]
 📌 Project Overview
 
 In this project, I worked with a large Spotify dataset containing information about artists, tracks, albums, streaming metrics, and audio features. I downloaded the dataset, created a PostgreSQL database, and imported the data into a structured SQL table.
